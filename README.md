@@ -18,7 +18,7 @@ problems.<br>
  Help in decision making.<br>
  Cut down the overall cost and create a better environment.
 
-Picture of real time ADSB API data:
+Picture of real time ADSB API data:<br>
 ![image](https://user-images.githubusercontent.com/21281540/230773062-5ab1409e-4437-4d15-9e96-9d1e3e0b2c9a.png)
 
 Workflow DFD:<br>
@@ -28,10 +28,10 @@ Workflow DFD:<br>
 Research: <br>
 The research phase is basically “how” the objectives are going to be achieved, how we can accomplish the set goals. The goal of project can be describing as the proof of concept of to what person understands from the problem, but the problem is not solved by statement but its need to be validated learned throughout the time, which needs sincere dedication towards the understanding and time to gradually increase in phases but not atomic. This research is divided into three research phases including:
 
-First Phase: Feature extraction and pre-processing
-Second Phase: Search of technique to calculate fuel consumption
-Third Phase: Search of technique to estimate charge
-Fourth Phase: Research on how to track flights
+First Phase: Feature extraction and pre-processing<br>
+Second Phase: Search of technique to calculate fuel consumption<br>
+Third Phase: Search of technique to estimate charge<br>
+Fourth Phase: Research on how to track flights<br>
 
 Project Modules: <br>
 Module I- Fuel consumption based:
